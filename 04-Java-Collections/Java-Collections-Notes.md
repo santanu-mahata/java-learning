@@ -7,9 +7,20 @@ Main parts:
 
 ``` text
 List
+1.  ArrayList
+2.  LinkedList
+3.  Stack
+4.  Vector
 Set
+1.  HashSet
+2.  TreeSet
 Queue
+1.  ArrayQueue
+2.  LinkedList
+3.  PriorityQueue
 Map
+1. HashMap
+2. TreeMap
 ```
 
 ------------------------------------------------------------------------
